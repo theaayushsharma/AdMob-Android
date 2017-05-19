@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">AdMob</string>
     <string name="title_activity_second_activiy">Interstitial</string>
-    <string name="msg_welcome">Welcome to Admob. Click on the below button to launch the Interstitial ad.</string>
+    <string name="msg_welcome">Hey See at bottom of screen for AdMob</string>
     <string name="btn_fullscreen_ad">Show Fullscreen Ad</string>
 
     <!-- AdMob ad unit IDs -->

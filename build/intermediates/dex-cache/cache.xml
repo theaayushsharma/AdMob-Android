@@ -8,106 +8,106 @@
         optimize="true"
         revision="25.0.2"
         sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/Users/silenthacker/Development/AdMob/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_f640e4bb4e0a809f32df3b14f4e0d78a021c5d0e.jar" />
+        <dex dex="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_f640e4bb4e0a809f32df3b14f4e0d78a021c5d0e.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/silenthacker/Development/AdMob/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/Users/silenthacker/Development/AdMob/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_5af9492b798a4f6d119afee7886466d127ac6b9c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/silenthacker/Development/AdMob/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
-        <dex dex="/Users/silenthacker/Development/AdMob/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_1e2768020dd7f91c5a787008de7231713f98bd0f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/silenthacker/Development/AdMob/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/Users/silenthacker/Development/AdMob/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_9ebb786cc56c9c8b7a1051215b22e1ef8834ca5b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/silenthacker/Development/AdMob/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/Users/silenthacker/Development/AdMob/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_bb5a5fb7d28ded55d8d004ab9a07a0794364acc7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/silenthacker/Development/AdMob/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
-        <dex dex="/Users/silenthacker/Development/AdMob/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-8.4.0_0723974a647925a0c9dc376160c998b7e3a0e225.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/silenthacker/Development/AdMob/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jar="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/Users/silenthacker/Development/AdMob/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_27fd0906d7374df69f05b4eb0d8f373b78ef2c52.jar" />
+        <dex dex="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_3b246dd225267d18616debc698789d17bda3e9b4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/silenthacker/Development/AdMob/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/Users/silenthacker/Development/AdMob/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_cc75a13a60f57bfc47254ed086bce35e9c675031.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/silenthacker/Development/AdMob/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/Users/silenthacker/Development/AdMob/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_ff5de6e092ee4a16034236e1809ea2f046c278e1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/silenthacker/Development/AdMob/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jar="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/silenthacker/Development/AdMob/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_17e83b8f23ae89c288d6402fa7ad12a735c9b565.jar" />
+        <dex dex="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_6eead41c31691f66638deb744af6df67296439b2.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/silenthacker/Development/AdMob/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jar="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-8.4.0_3d6f33d66266ff7a970c0e9661ea4e89b895fe42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/Users/silenthacker/Development/AdMob/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_20d39884380062b7c03629b73704e2ca59ef5bdc.jar" />
+        <dex dex="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_bf8a6c63f9c328ed20af15f04e83f0264c1224b9.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/silenthacker/Development/AdMob/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jar="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_ae05128e6c88f66be1aee9a1ee6ebafd998c0959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_bb86dd403ec0632cc0b85a7c483751b4894f07fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_a7a90961b4c163d6096c9169b27107a0eb00ea4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_d5d0ad155705972dbf7b902568923732c67eeca3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_d14f997895620880bb73e1454dc41614d7c8290b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/Users/silenthacker/Development/AdMob/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_7b67459a15fbfe27b0093bf4879c6e6979d932a6.jar" />
+        <dex dex="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_b45093e904f936723c0734885d747f5d2dbe4d26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_e82c0e3778863a5a6826d499f3c54a4728ee3813.jar" />
     </item>
 
 </items>
