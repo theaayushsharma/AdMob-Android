@@ -75,6 +75,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/exploded-aar/com.getkeepsafe.taptargetview/taptargetview/1.9.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c33db5975995f68c52b66bd4e3e988de0453cc24">
+        <dex dex="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/pre-dexed/debug/com.getkeepsafe.taptargetview-taptargetview-1.9.1_5e18dbae0e32a202c18e24cd462996e3b19a5ef6.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
