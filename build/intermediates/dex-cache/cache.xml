@@ -21,6 +21,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_a7a90961b4c163d6096c9169b27107a0eb00ea4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -63,24 +72,6 @@
         revision="25.0.2"
         sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
         <dex dex="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_bb86dd403ec0632cc0b85a7c483751b4894f07fe.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_a7a90961b4c163d6096c9169b27107a0eb00ea4b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/exploded-aar/com.getkeepsafe.taptargetview/taptargetview/1.9.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c33db5975995f68c52b66bd4e3e988de0453cc24">
-        <dex dex="/Users/silenthacker/Development/AdMob-Android/app/build/intermediates/pre-dexed/debug/com.getkeepsafe.taptargetview-taptargetview-1.9.1_5e18dbae0e32a202c18e24cd462996e3b19a5ef6.jar" />
     </item>
     <item
         is-multidex="false"
