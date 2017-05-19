@@ -12,12 +12,6 @@
         android:layout_height="wrap_content"
         android:text="@string/msg_welcome" />
 
-    <Button android:id="@+id/btn_fullscreen_ad"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:text="@string/btn_fullscreen_ad"/>
-
     <com.google.android.gms.ads.AdView
         android:id="@+id/adView"
         android:layout_width="match_parent"

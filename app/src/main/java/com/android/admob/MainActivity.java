@@ -1,44 +1,30 @@
 package com.android.admob;
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.view.View;
-import android.widget.Button;
-import android.widget.Toast;
 
-import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 
 public class MainActivity extends AppCompatActivity {
 
-    private AdView mAdView;
-    private Button btnFullscreenAd;
+    private AdView adView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        mAdView = (AdView) findViewById(R.id.adView);
+        adView = (AdView) findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder()
                 .build();
-        mAdView.loadAd(adRequest);
-
-        btnFullscreenAd = (Button) findViewById(R.id.btn_fullscreen_ad);
-        btnFullscreenAd.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this, SecondActivity.class));
-            }
-        });
+        adView.loadAd(adRequest);
     }
 
     @Override
     public void onPause() {
-        if (mAdView != null) {
-            mAdView.pause();
+        if (adView != null) {
+            adView.pause();
         }
         super.onPause();
     }
@@ -46,15 +32,15 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onResume() {
         super.onResume();
-        if (mAdView != null) {
-            mAdView.resume();
+        if (adView != null) {
+            adView.resume();
         }
     }
 
     @Override
     public void onDestroy() {
-        if (mAdView != null) {
-            mAdView.destroy();
+        if (adView != null) {
+            adView.destroy();
         }
         super.onDestroy();
     }
